@@ -1,0 +1,16 @@
+    <h1>Vivero el Otoño </h1>
+    <h3>Tabla de plantas</h3>
+    <table class="table table-striped">
+        <thead>
+            <th>Nombre Común</th>
+            <th>Tipo</th>
+            <th>Clima</th>
+        </thead>
+        <tbody>
+        <tr *ngFor="let planta of plantas">
+            <td>{{planta.NombreComun}}</td>
+            <td>{{planta.Tipo}}</td>
+            <td>{{planta.Clima}}</td>
+        </tr>
+        </tbody>
+    </table>
