@@ -1,0 +1,38 @@
+[
+    {
+        "numero": 1,
+        "NombreComun": "Pino",
+        "Tipo": "Interior",
+        "Clima": "Frío"
+    },
+    {
+        "numero": 2,
+        "NombreComun": "Cedro",
+        "Tipo": "Interior",
+        "Clima": "Calido"
+    },
+    {
+        "numero": 3,
+        "NombreComun": "Ciruelo",
+        "Tipo": "Interior",
+        "Clima": "Frío"
+    },
+    {
+        "numero": 4,
+        "NombreComun": "Naranjo",
+        "Tipo": "Interior",
+        "Clima": "Calido"
+    },
+    {
+        "numero": 5,
+        "NombreComun": "Magnolia",
+        "Tipo": "Interior",
+        "Clima": "Frío"
+    },
+    {
+        "numero": 6,
+        "NombreComun": "Glicina",
+        "Tipo": "Exterior",
+        "Clima": "Calido"
+    }
+]
